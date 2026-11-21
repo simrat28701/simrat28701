@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0A0A0A,100:A21517&height=220&section=header&text=Your%20Name&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Your%20Role%20%C2%B7%20Your%20Highlight&descSize=24&descAlignY=64" width="100%" alt="Your Name, Your Role" /></a>
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=34&duration=2000&pause=1600&color=E5EE4E&background=0A0A0A&center=true&vCenter=true&width=854&height=64&lines=%3E+your+first+line.;%3E+your+second+line.;%3E+your+third+line." width="100%" alt="Your typing lines" />
+  <a href="https://github.com/simrat28701"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0A0A0A,100:A21517&height=220&section=header&text=Your%20Name&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Your%20Role%20%C2%B7%20Your%20Highlight&descSize=24&descAlignY=64" width="100%" alt="Simrat Kaur Khalsa" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=34&duration=2000&pause=1600&color=E5EE4E&background=0A0A0A&center=true&vCenter=true&width=854&height=64&lines=%3E+your+first+line.;%3E+your+second+line.;%3E+your+third+line." width="100%" alt="Curious Mind. Relentless Ambition" />
 </p>
 
 <p align="center">
