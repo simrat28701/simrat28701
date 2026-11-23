@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 360" role="img" aria-label="Animated network linking economics, data science, AI, finance and research">
+<style>
+text{font-family:monospace;fill:#D5CDE6} .line{stroke:#6D4CA8;stroke-width:2;stroke-dasharray:6 8;animation:flow 7s linear infinite}.node{fill:#211936;stroke:#B69CFF;stroke-width:2}.dot{fill:#F0ABFC;animation:pulse 2.8s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes flow{to{stroke-dashoffset:-112}}@keyframes pulse{50%{opacity:.45;transform:scale(1.5)}}@media(prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect width="900" height="360" rx="20" fill="#0D0B1E"/>
+<text x="35" y="38" font-size="17" fill="#B69CFF">~/simrat/research_network</text><text x="745" y="38" font-size="13">SYSTEM ONLINE</text>
+<g class="line" fill="none"><path d="M450 174 L170 104 M450 174 L725 96 M450 174 L170 275 M450 174 L730 273 M170 104 L170 275 M725 96 L730 273"/></g>
+<g><circle class="node" cx="450" cy="174" r="75"/><circle class="node" cx="170" cy="104" r="55"/><circle class="node" cx="725" cy="96" r="55"/><circle class="node" cx="170" cy="275" r="55"/><circle class="node" cx="730" cy="273" r="55"/></g>
+<g font-size="17" text-anchor="middle"><text x="450" y="169">DATA</text><text x="450" y="191">SCIENCE</text><text x="170" y="109">ECONOMICS</text><text x="725" y="101">AI / NLP</text><text x="170" y="280">FINANCE</text><text x="730" y="278">RESEARCH</text></g>
+<circle class="dot" cx="450" cy="98" r="5"/><circle class="dot" cx="170" cy="49" r="4"/><circle class="dot" cx="725" cy="41" r="4"/><circle class="dot" cx="170" cy="220" r="4"/><circle class="dot" cx="730" cy="218" r="4"/>
+<text x="35" y="339" font-size="12">QUESTION → MODEL → INSIGHT</text>
+</svg>
