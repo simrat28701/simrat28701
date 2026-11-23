@@ -1,100 +1,168 @@
-<p align="center">
-  <a href="https://github.com/simrat28701"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0A0A0A,100:A21517&height=220&section=header&text=Your%20Name&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Your%20Role%20%C2%B7%20Your%20Highlight&descSize=24&descAlignY=64" width="100%" alt="Simrat Kaur Khalsa" /></a>
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=34&duration=2000&pause=1600&color=E5EE4E&background=0A0A0A&center=true&vCenter=true&width=854&height=64&lines=%3E+your+first+line.;%3E+your+second+line.;%3E+your+third+line." width="100%" alt="Curious Mind. Relentless Ambition" />
-</p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-A21517?style=for-the-badge" alt="LinkedIn" /></a>
-  <a href="https://YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-A21517?style=for-the-badge" alt="Portfolio" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-A21517?style=for-the-badge" alt="Email" /></a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/number-what_it_means-ECBDD8?style=for-the-badge&labelColor=0A0A0A" alt="Highlight 1" />
-  <img src="https://img.shields.io/badge/number-what_it_means-ECBDD8?style=for-the-badge&labelColor=0A0A0A" alt="Highlight 2" />
-  <img src="https://img.shields.io/badge/number-what_it_means-ECBDD8?style=for-the-badge&labelColor=0A0A0A" alt="Highlight 3" />
-</p>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0B1E,50:6D4CA8,100:B69CFF&height=230&section=header&text=SIMRAT%20KAUR%20KHALSA&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Economics%20x%20Data%20Science%20x%20Curiosity&descSize=18&descAlignY=60&descColor=F0ABFC"
+    width="100%"
+    alt="Simrat Kaur Khalsa"
+  />
 
-## 🧬 about
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1200&color=B69CFF&center=true&vCenter=true&width=700&lines=%3E+Finding+patterns+in+noise;%3E+Turning+data+into+decisions;%3E+Exploring+AI%2C+Economics+and+Markets;%3E+Always+curious.+Always+building."
+    alt="Animated introduction"
+  />
 
-```python
-me = {
-    "does":     "Open to work",
-    "based":    "Marseille / France",
-    "degree":   "MSc Econometrics and Data Science, AMSE ",
-    "learning": "Learning to uncover hidden patterns, predict the unpredictable, and turn messy data into intelligent decisions, one model at a time.",
-    "speaks":   ["English", "French", "Hindi"],
-    "pronouns": "She/Her",
+  <p>
+    <a href="https://www.linkedin.com/in/simrat-khalsa/">
+      <img src="https://img.shields.io/badge/LinkedIn-B69CFF?style=for-the-badge&logo=linkedin&logoColor=0D0B1E" />
+    </a>
+    <a href="https://github.com/simrat28701">
+      <img src="https://img.shields.io/badge/GitHub-F0ABFC?style=for-the-badge&logo=github&logoColor=0D0B1E" />
+    </a>
+  </p>
+
+</div>
+  
+## 🧬 `whoami`
+
+```python id="vs8n2q"
+simrat = {
+    "location": "Marseille, France",
+    "education": "MSc Economics & Data Science",
+    "universities": [
+        "Aix-Marseille University",
+        "University of Kent",
+        "Virginia Tech"
+    ],
+    "interests": [
+        "Econometrics",
+        "Machine Learning",
+        "Quantitative Finance",
+        "AI & Consumer Intelligence"
+    ],
+    "currently_building": [
+        "Nuance: AI Consumer Intelligence",
+        "Airline Delay Econometrics"
+    ],
+    "exploring": "Social Sentiment × Stock Markets",
+    "opportunities": "2027 internships",
+    "motto": "Question assumptions. Test hypotheses. Build."
 }
 ```
 
-<details>
-<summary><b>🌱 how I got here. click for the short version</b></summary>
-<br />
-<table>
-  <tr><td><b>Year</b></td><td>what happened</td></tr>
-  <tr><td><b>Year</b></td><td>what happened</td></tr>
-  <tr><td><b>Year</b></td><td>what happened</td></tr>
-</table>
-</details>
+<h2>📊 The Data Behind the Code</h2>
 
-## 💼 experience
+<div align="center">
 
-<table>
-  <tr>
-    <td width="36%" valign="top"><b>Your Role</b><br /><sub>Company, City · Year</sub></td>
-    <td valign="top">What you did, in one or two lines.</td>
-  </tr>
-  <tr>
-    <td width="36%" valign="top"><b>Your Role</b><br /><sub>Company, City · Year to Year</sub></td>
-    <td valign="top">What you did, in one or two lines.</td>
-  </tr>
-</table>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=simrat28701&show_icons=true&bg_color=0D0B1E&title_color=B69CFF&text_color=D5CDE6&icon_color=F0ABFC&border_color=45345F"
+    height="170"
+    alt="GitHub statistics"
+  />
 
-## 🚀 projects
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=simrat28701&layout=compact&bg_color=0D0B1E&title_color=B69CFF&text_color=D5CDE6&border_color=45345F"
+    height="170"
+    alt="Most used programming languages"
+  />
+
+</div>
+
+<h2>🚀 The Project Laboratory</h2>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>☁️ <a href="https://PROJECT_LINK">Project One</a></h3>
-      <sub><b>short label · live demo</b></sub>
-      <p>What it does, in one or two sentences.</p>
-      <p><code>Tool</code> <code>Tool</code> <code>Tool</code></p>
-      <a href="https://PROJECT_LINK"><img src="https://img.shields.io/badge/try_the_demo-A21517?style=for-the-badge" alt="Try the demo" /></a>
+      <h3>🧠 NUANCE</h3>
+      <b>AI-Powered Consumer Intelligence</b>
+      <p>
+        An NLP prototype that uncovers nuanced customer
+        sentiment, product trade-offs and purchase intent.
+      </p>
+      <p>
+        <code>Python</code>
+        <code>LLMs</code>
+        <code>Flask</code>
+        <code>NLP</code>
+      </p>
+      <img src="https://img.shields.io/badge/AI_RESEARCH-B69CFF?style=flat-square&labelColor=0D0B1E" />
     </td>
     <td width="50%" valign="top">
-      <h3>🩺 Project Two</h3>
-      <sub><b>short label</b></sub>
-      <p>What it does, in one or two sentences.</p>
-      <p><code>Tool</code> <code>Tool</code></p>
+      <h3>✈️ FLIGHT DELAY INTELLIGENCE</h3>
+      <b>Econometrics & Predictive Modeling</b>
+      <p>
+        Studying US aviation delay patterns,
+        operational risk and predictive methods
+        using real-world flight data.
+      </p>
+      <p>
+        <code>Econometrics</code>
+        <code>Regression</code>
+        <code>Python</code>
+      </p>
+      <img src="https://img.shields.io/badge/RESEARCH-F0ABFC?style=flat-square&labelColor=0D0B1E" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌍 Project Three</h3>
-      <sub><b>short label</b></sub>
-      <p>What it does, in one or two sentences.</p>
-      <p><code>Tool</code></p>
+      <h3>📈 MARKET MOOD</h3>
+      <b>Social Sentiment × Financial Markets</b>
+      <p>
+        Exploring the relationship between social media
+        sentiment and stock market movements.
+      </p>
+      <p>
+        <code>NLP</code>
+        <code>Time Series</code>
+        <code>Finance</code>
+      </p>
+      <img src="https://img.shields.io/badge/EXPLORING-B69CFF?style=flat-square&labelColor=0D0B1E" />
     </td>
     <td width="50%" valign="top">
-      <h3>📂 <a href="https://github.com/YOUR_USERNAME/YOUR_REPO">More Work</a></h3>
-      <sub><b>everything else</b></sub>
-      <p>More projects live here.</p>
+      <h3>🔬 RESEARCH ARCHIVE</h3>
+      <b>Experiments, Models & More</b>
+      <p>
+        Econometric experiments, machine learning
+        explorations and analytical projects.
+      </p>
+      <a href="https://github.com/simrat28701?tab=repositories">
+        <img src="https://img.shields.io/badge/EXPLORE_REPOS-F0ABFC?style=for-the-badge&labelColor=0D0B1E" />
+      </a>
     </td>
   </tr>
 </table>
 
-## 🧰 stack
+<h2>🛠️ My Toolkit</h2>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,js,react,nodejs,postgres,docker,git,github,vscode,figma,notion&perline=14&theme=dark" alt="Tech stack" />
-</p>
+<div align="center">
 
-<p align="center"><b>Working on something cool? I'd love to hear about it.</b></p>
+  <img
+    src="https://skillicons.dev/icons?i=py,r,git,github,vscode&theme=dark"
+    alt="Technical skills"
+  />
 
-<p align="center">
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/say_hi-A21517?style=for-the-badge" alt="Email me" /></a>
-</p>
+  <p>
+    <img src="https://img.shields.io/badge/Econometrics-B69CFF?style=flat-square&labelColor=0D0B1E" />
+    <img src="https://img.shields.io/badge/Machine_Learning-F0ABFC?style=flat-square&labelColor=0D0B1E" />
+    <img src="https://img.shields.io/badge/Time_Series-B69CFF?style=flat-square&labelColor=0D0B1E" />
+    <img src="https://img.shields.io/badge/NLP-F0ABFC?style=flat-square&labelColor=0D0B1E" />
+  </p>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:A21517,100:0A0A0A&height=90&section=footer&text=your%20sign-off%20line&fontSize=30&fontColor=FFFFFF&fontAlignY=52" width="100%" alt="Your sign-off line" /></p>
+</div>
 
+<div align="center">
+
+  <h3>Curiosity is my favorite algorithm.</h3>
+
+  <p>
+    <i>Currently building, learning and looking for
+    interesting problems worth solving.</i>
+  </p>
+
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0B1E,50:6D4CA8,100:B69CFF&height=110&section=footer"
+    width="100%"
+    alt="Footer"
+  />
+
+</div>
