@@ -49,7 +49,13 @@ simrat = {
     "motto": "Question assumptions. Test hypotheses. Build."
 }
 ```
-
+<div align="center">
+  <img
+    src="research-network.svg"
+    width="100%"
+    alt="Simrat's research network"
+  />
+</div>
 <h2>📊 The Data Behind the Code</h2>
 
 <div align="center">
@@ -166,3 +172,6 @@ simrat = {
   />
 
 </div>
+
+
+
